@@ -8,7 +8,6 @@ Backup android devices quickly and easily by using `adb-exec` and tar streams.
   <a href="screenshot-02.png"><img src="screenshot-02.png" width="380" alt="Screenshot 2"></a>
 </p>
 
-### [⬇ Download adb-PowerPipe v1.26 (Windows .exe)](https://raw.githubusercontent.com/honeybugserial/abd-PowerPipeBackup/refs/heads/main/adb-PowerPipe_v1_26.exe)
 
 ## Settings/Operations
 
