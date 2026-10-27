@@ -1,0 +1,17 @@
+# adb-PowerPipe configuration.
+# Edit this file to change defaults without touching the code.
+# It's re-created with these defaults if you delete it.
+
+[backup]
+output_dir = ""      # where backups are saved. "" = a "backups" directory next to the app.
+compress = false     # gzip the stream. Off is right for photos/video.
+verify = true        # re-open each archive afterward and count entries.
+chunk_mib = 1        # pipe read size in MiB. 1 is a fine default.
+
+[directories]
+# Where the live device browser starts. The tree loads this directory and
+# lets you expand into it; tick whatever you want backed up.
+root = "/sdcard"
+
+[ui]
+theme = "Fusion"     # Qt style. "Fusion" is consistent across platforms.
